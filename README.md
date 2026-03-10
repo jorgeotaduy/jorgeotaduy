@@ -1,4 +1,4 @@
-# Hi, I'm Jorge Otaduy Pérez
+## Hi, I'm Jorge Otaduy Pérez
 
 Graduate in Statistics from the University of Salamanca with experience at the Spanish National Statistics Institute (INE).
 
