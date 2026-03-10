@@ -1,16 +1,21 @@
-## Hi there 👋
+#Hi, I'm Jorge Otaduy Pérez
 
-<!--
-**jorgeotaduy/jorgeotaduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate in Statistics from the University of Salamanca with experience at the Spanish National Statistics Institute (INE).
 
-Here are some ideas to get you started:
+Interested in data science, machine learning and applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Python  
+R  
+SQL  
+Machine Learning  
+Data Analysis  
+
+## Projects
+
+- Missing Data Imputation Benchmark
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/jorgeotaduy/
